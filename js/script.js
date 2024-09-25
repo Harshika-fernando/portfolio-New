@@ -4,7 +4,7 @@ function hamburg() {
 }
 
 function cancel() {
-    const navbar = document.querySelector(".cancel");
+    const navbar = document.querySelector(".dropdown");
     navbar.style.transform = "translateY(-500px)";
 }
 
